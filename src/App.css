@@ -1,0 +1,28 @@
+.page-container {
+  margin: auto;
+  max-width: 35rem;
+  padding: 2rem 1.5rem;
+}
+
+.page-container .account-info {
+  text-align: center;
+  margin-top: 2rem;
+  cursor: pointer;
+}
+
+.underline-pointer {
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.auth-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.orders {
+  margin-bottom: 1rem;
+  font-weight: bold;
+  color: green;
+}
